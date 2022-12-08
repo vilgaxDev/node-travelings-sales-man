@@ -37,7 +37,7 @@
   "devDependencies": {
     "bower": "^1.8.2",
     "concurrently": "^2.0.0",
-    "connect-modrewrite": "^0.9.0",
+    "connect-modrewrite": "^0.10.2",
     "d3-scale-chromatic": "^1.1.1",
     "grunt": "^0.4.5",
     "grunt-angular-templates": "^1.1.0",
@@ -65,7 +65,7 @@
     "grunt-traceur": "^0.5.5",
     "grunt-usemin": "^3.0.0",
     "grunt-version": "^1.2.1",
-    "lite-server": "^2.2.0",
+    "lite-server": "^2.3.0",
     "load-grunt-tasks": "^3.5.2",
     "serve-static": "^1.13.2",
     "time-grunt": "^1.4.0",
